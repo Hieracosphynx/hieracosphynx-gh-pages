@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/hieracosphynx-gh-pages/static/css/main.a617e044.chunk.css",
-    "main.js": "/hieracosphynx-gh-pages/static/js/main.84e02584.chunk.js",
-    "main.js.map": "/hieracosphynx-gh-pages/static/js/main.84e02584.chunk.js.map",
-    "runtime-main.js": "/hieracosphynx-gh-pages/static/js/runtime-main.5e6dc328.js",
-    "runtime-main.js.map": "/hieracosphynx-gh-pages/static/js/runtime-main.5e6dc328.js.map",
-    "static/js/2.9b40114f.chunk.js": "/hieracosphynx-gh-pages/static/js/2.9b40114f.chunk.js",
-    "static/js/2.9b40114f.chunk.js.map": "/hieracosphynx-gh-pages/static/js/2.9b40114f.chunk.js.map",
-    "static/js/3.2d3cf6f3.chunk.js": "/hieracosphynx-gh-pages/static/js/3.2d3cf6f3.chunk.js",
-    "static/js/3.2d3cf6f3.chunk.js.map": "/hieracosphynx-gh-pages/static/js/3.2d3cf6f3.chunk.js.map",
-    "index.html": "/hieracosphynx-gh-pages/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/hieracosphynx-gh-pages/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.9b40114f.chunk.js.LICENSE.txt": "/hieracosphynx-gh-pages/static/js/2.9b40114f.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/hieracosphynx-gh-pages/static/media/logo.6ce24c58.svg"
+    "main.css": "/hieracosphynx-mdlc/static/css/main.a617e044.chunk.css",
+    "main.js": "/hieracosphynx-mdlc/static/js/main.84e02584.chunk.js",
+    "main.js.map": "/hieracosphynx-mdlc/static/js/main.84e02584.chunk.js.map",
+    "runtime-main.js": "/hieracosphynx-mdlc/static/js/runtime-main.2349ab50.js",
+    "runtime-main.js.map": "/hieracosphynx-mdlc/static/js/runtime-main.2349ab50.js.map",
+    "static/js/2.9b40114f.chunk.js": "/hieracosphynx-mdlc/static/js/2.9b40114f.chunk.js",
+    "static/js/2.9b40114f.chunk.js.map": "/hieracosphynx-mdlc/static/js/2.9b40114f.chunk.js.map",
+    "static/js/3.2d3cf6f3.chunk.js": "/hieracosphynx-mdlc/static/js/3.2d3cf6f3.chunk.js",
+    "static/js/3.2d3cf6f3.chunk.js.map": "/hieracosphynx-mdlc/static/js/3.2d3cf6f3.chunk.js.map",
+    "index.html": "/hieracosphynx-mdlc/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/hieracosphynx-mdlc/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.9b40114f.chunk.js.LICENSE.txt": "/hieracosphynx-mdlc/static/js/2.9b40114f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/hieracosphynx-mdlc/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5e6dc328.js",
+    "static/js/runtime-main.2349ab50.js",
     "static/js/2.9b40114f.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.84e02584.chunk.js"
